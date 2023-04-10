@@ -1,0 +1,7 @@
+open chrome
+close chrome
+open youtube
+close youtube
+search youtube
+search google
+terminate
